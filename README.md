@@ -347,8 +347,7 @@ Projeto didático desenvolvido para uso em atividades educacionais de robótica,
 - Sensores de Linha Infravermelhos (IR)  
 
 **Desenvolvido com fins educacionais por:**
-[Seu nome/instituição]
-
+Leandro Pereira
 ---
 
 ## 📞 Suporte e Contribuições
@@ -364,10 +363,7 @@ Se encontrar problemas ou quiser contribuir com melhorias:
 ## 🔗 Links Úteis
 
 - [Arduino Official Site](https://www.arduino.cc)  
-- [Arduino Project Hub](https://create.arduino.cc/projecthub)  
-- [L298N Motor Driver Documentation](https://www.manualslib.com/manual/1045713-Hc-sr04.html)  
-- [HC-SR04 Ultrasonic Sensor Guide](https://www.electroschematics.com/hc-sr04-ultrasonic-sensor/)  
-- [HC-05 Bluetooth Module Tutorial](https://www.arduino.cc/en/Guide)  
+ 
 
 [⬆️ Voltar ao topo](#-robô-mamute-com-arduino-uno)
 
