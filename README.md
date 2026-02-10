@@ -220,7 +220,7 @@ Neste modo, o robô anda em frente e **desvia automaticamente de obstáculos** u
 ### Diagrama de ligação (Fritzing)
 
 ```text
-desvia-obstaculo/desvia_obstaculo_fritzing.png
+(em construção ...)
 ```
 
 (Insira aqui a imagem correspondente exportada do Fritzing.)
@@ -273,7 +273,7 @@ Comandos baseados em caracteres são comuns em projetos de robô Bluetooth por s
 controle-bluetooth/controle_bluetooth_fritzing.png
 ```
 
-(Insira aqui a imagem correspondente exportada do Fritzing.)
+(em construção ...)
 
 ### Código-fonte
 
