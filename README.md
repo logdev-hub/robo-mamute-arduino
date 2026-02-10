@@ -177,11 +177,7 @@ Neste modo, o robô **segue uma linha** (geralmente preta em fundo branco) utili
 
 ### Diagrama de ligação (Fritzing)
 
-```text
-seguidor-linha/seguidor_linha_fritzing.png
-```
-
-(Insira aqui a imagem exportada do Fritzing com o caminho acima.)
+(em construção ...)
 
 ### Código-fonte
 
